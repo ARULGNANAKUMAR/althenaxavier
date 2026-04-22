@@ -81,7 +81,7 @@ Examples:
                 args.column,
                 file_type=args.type
             )
-            print(f"\n✅ Result: {result}")
+            print(f"\n Result: {result}")
             
         elif args.command == 'ai':
             result = engine.ai_analyze(args.file, args.column, args.analyze)
@@ -89,7 +89,7 @@ Examples:
             
         elif args.command == 'compare':
             result = engine.process_files(args.files, args.op, args.column)
-            print(f"\n📊 Comparison Result ({args.op} of '{args.column}'):")
+            print(f"\n Comparison Result ({args.op} of '{args.column}'):")
             for item in result:
                 print(f"  {Path(item['file']).name}: {item['result']}")
                 
@@ -104,7 +104,7 @@ Examples:
         print("\n✓ Operation completed successfully")
         
     except Exception as e:
-        print(f"\n❌ Error: {e}")
+        print(f"\n Error: {e}")
         sys.exit(1)
 
 
@@ -119,11 +119,11 @@ def _get_file_list(pattern):
 
 def _print_ai_results(results):
     """Pretty print AI analysis results"""
-    print("\n🤖 AI Analysis Results:")
+    print("\n AI Analysis Results:")
     print("=" * 50)
     
     if 'statistics' in results:
-        print("\n📊 Statistics:")
+        print("\n Statistics:")
         stats = results['statistics']
         print(f"  Count: {stats['count']:,}")
         print(f"  Mean: {stats['mean']:.2f}")
@@ -132,25 +132,25 @@ def _print_ai_results(results):
         print(f"  Max: {stats['max']:.2f}")
     
     if 'anomalies' in results:
-        print("\n⚠️ Anomalies Detected:")
+        print("\n Anomalies Detected:")
         print(f"  Count: {results['anomalies']['count']}")
         print(f"  Percentage: {results['anomalies']['percentage']:.2f}%")
         if results['anomalies']['values']:
             print(f"  Sample: {results['anomalies']['values'][:5]}")
     
     if 'forecast' in results:
-        print("\n🔮 Forecast:")
+        print("\n Forecast:")
         print(f"  Trend: {results['forecast']['trend']}")
         print(f"  Confidence: {results['forecast']['confidence']}%")
         print(f"  Next values: {results['forecast']['next_values'][:5]}")
     
     if 'trend' in results:
-        print("\n📈 Trend Analysis:")
+        print("\n Trend Analysis:")
         print(f"  Direction: {results['trend']['trend']}")
         print(f"  Change: {results['trend']['change_percentage']}%")
     
     if 'clusters' in results:
-        print("\n🎯 Pattern Clusters:")
+        print("\n Pattern Clusters:")
         print(f"  Clusters found: {results['clusters']['n_clusters']}")
 
 
