@@ -1,5 +1,5 @@
 
-## 📁 **File 3: `requirements.txt`**
+##  **File 3: `requirements.txt`**
 
 Create in `D:\AI althena lib\`
 
