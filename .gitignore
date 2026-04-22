@@ -1,0 +1,10 @@
+# Create this file in your repo root
+__pycache__/
+*.pyc
+dist/
+build/
+*.egg-info/
+venv/
+.env
+.idea/
+.vscode/
