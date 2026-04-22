@@ -1,0 +1,13 @@
+
+## 📁 **File 3: `requirements.txt`**
+
+Create in `D:\AI althena lib\`
+
+```txt
+pandas>=1.5.0
+numpy>=1.21.0
+psutil>=5.9.0
+tqdm>=4.64.0
+scikit-learn>=1.2.0
+scipy>=1.9.0
+pyarrow>=10.0.0
