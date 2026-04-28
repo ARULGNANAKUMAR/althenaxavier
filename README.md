@@ -247,12 +247,10 @@ If you use AlthenaXavier in your research or project, please cite:
   year         = {2026},
   publisher    = {Zenodo},
   version      = {v3.0.0},
-  doi          = {10.5281/zenodo.xxxxxxx},
+  doi          = {10.5281/zenodo.19840202},
   url          = {https://github.com/ARULGNANAKUMAR/althenaxavier}
 }
 ```
-
-*(Replace `xxxxxxx` with your actual Zenodo DOI after archiving.)*
 
 ---
 
