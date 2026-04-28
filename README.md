@@ -4,9 +4,7 @@
 
 [![Python Version](https://img.shields.io/badge/python-3.8%2B-blue)](https://python.org)
 [![License](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
-[![PyPI Version](https://img.shields.io/pypi/v/althenaxavier)](https://pypi.org/project/althenaxavier/)
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.XXXXXXX.svg)](https://doi.org/10.5281/zenodo.10.5281/zenodo.19840202)  
-*(Replace `XXXXXXX` with your actual Zenodo DOI after archiving)*
+[![PyPI Version](https://img.shields.io/pypi/v/althenaxavier)](https://pypi.org/project/althenaxavier/)[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.19840202.svg)](https://doi.org/10.5281/zenodo.19840202)
 
 **Industrial-grade, AI-powered data processing for large CSV/Parquet files — efficient, memory-safe, and intelligent.**
 
