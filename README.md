@@ -1,11 +1,3 @@
-# AlthenaXavier 
-
-[![Python Version](https://img.shields.io/badge/python-3.8%2B-blue)](https://python.org)
-[![License](https://img.shields.io/badge/license-MIT-green)](LICENSE)
-[![PyPI Version](https://img.shields.io/badge/pypi-3.0.0-blue)](https://pypi.org/project/althenaxavier)
-
-Absolutely! Your GitHub repository looks great and is ready for Zenodo. Below is a **professional, comprehensive README.md** formatted for clarity, impact, and Zenodo archival. It highlights your project’s value, provides clear instructions, and includes all the metadata Zenodo recommends.
-
 ---
 
 # AlthenaXavier: AI-Powered Big Data Processing Engine
