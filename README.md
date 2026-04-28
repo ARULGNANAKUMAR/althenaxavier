@@ -265,22 +265,3 @@ If you find this project useful, please **give it a star** on GitHub – it help
 For questions, suggestions, or collaborations, please open a [GitHub Issue](https://github.com/ARULGNANAKUMAR/althenaxavier/issues) or reach out via email.
 
 ---
-
-**Made with ❤️ for the data & AI community.**
-
----
-
-##  How to Archive on Zenodo
-
-1. Go to [Zenodo](https://zenodo.org/) and log in with your GitHub account.
-2. Click **“Upload”**.
-3. Select **“GitHub”** as the source.
-4. Find and select your `ARULGNANAKUMAR/althenaxavier` repository.
-5. Zenodo will automatically create a **new version** each time you create a **GitHub Release**.
-6. After first upload, **replace the DOI badge** in this README with the one Zenodo provides.
-
->  **Tip:** Create a GitHub Release (`v3.0.0`) – Zenodo will automatically archive it and assign a DOI.
-
----
-
-This README is now **professional**, **complete**, and **Zenodo‑ready**. After you push it to GitHub, create a release, and Zenodo will pick it up and assign a DOI. Let me know if you need help with the Zenodo upload process!
