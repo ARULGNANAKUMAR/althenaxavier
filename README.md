@@ -224,7 +224,7 @@ Distributed under the **MIT License**. See [LICENSE.txt](LICENSE.txt) for more i
 
 **Arul Gnanakumar**  
 Student, Artificial Intelligence & Data Science  
-Francis Xavier Engineering College, Tirunelveli  
+Francis Xavier Engineering College, Palayamkottai Tirunelveli, Tamil Nadu - 627002  
 [GitHub](https://github.com/ARULGNANAKUMAR) · [Email](mailto:arulgnanakumar@gmail.com)
 
 ---
