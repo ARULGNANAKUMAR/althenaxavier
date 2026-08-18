@@ -16,7 +16,7 @@ setup(
         'numpy>=1.21.0',
         'psutil>=5.9.0',
         'tqdm>=4.64.0',
-        'scikit-learn>=1.2.0',  # For AI features
+        'scikit-learn>=1.2.0',
         'scipy>=1.9.0',
     ],
     
